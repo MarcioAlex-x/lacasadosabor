@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.banner-principal{
+    margin: 0 auto;
+    background-image: url(assets/banner-principal3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 98vw;
+    height: 90vh;
+}
+.banner-h1{
+    font-weight: bolder;
+}
+.mapa{
+    width:100%;
+}
+.insta{
+    text-decoration: none;
+    color: white;
+}
